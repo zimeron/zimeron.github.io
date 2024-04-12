@@ -1,0 +1,92 @@
+{
+    "builds": [
+        {
+            "name": "Seelah",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Paladin",
+                    "feats": [
+                        "Shield Focus"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Point-Blank Shot"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Paladin",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 3,
+                    "class": "Paladin",
+                    "feats": [
+                        "Armor Focus - Heavy Armor Focus"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Mercy - Sickened"
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Paladin",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Charisma",
+                    "other": []
+                }
+            ]
+        }, {
+            "name": "Camellia",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Weapon Finesse"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Spirit Hunter",
+                    "feats": [],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Iceplant"
+                    ]
+                }
+            ]
+        }
+    ]
+}
