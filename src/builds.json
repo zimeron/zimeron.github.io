@@ -10,7 +10,7 @@
                         "Shield Focus"
                     ],
                     "skills": [
-                        "Mobility",
+                        "Lore (Religion)",
                         " Knowledge (World)",
                         " Persuasion"
                     ],
@@ -23,7 +23,7 @@
                     "class": "Paladin",
                     "feats": [],
                     "skills": [
-                        "Mobility",
+                        "Lore (Religion)",
                         " Knowledge (World)",
                         " Persuasion"
                     ],
@@ -36,25 +36,272 @@
                         "Armor Focus - Heavy Armor Focus"
                     ],
                     "skills": [
-                        "Mobility",
+                        "Lore (Religion)",
                         " Knowledge (World)",
                         " Persuasion"
                     ],
                     "asi": "",
                     "other": [
-                        "Mercy - Sickened"
+                        "Mercy - Fatigued"
                     ]
                 }, {
                     "number": 4,
                     "class": "Paladin",
                     "feats": [],
                     "skills": [
-                        "Mobility",
+                        "Lore (Religion)",
                         " Knowledge (World)",
                         " Persuasion"
                     ],
                     "asi": "Charisma",
                     "other": []
+                }, {
+                    "number": 5,
+                    "class": "Paladin",
+                    "feats": [
+                        "Weapon Focus - Longsword"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Divine Weapon Bond"
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Paladin",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Mercy - Diseased"
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Paladin",
+                    "feats": [
+                        "Outflank"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 8,
+                    "class": "Paladin",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": []
+                }, {
+                    "number": 9,
+                    "class": "Paladin",
+                    "feats": [
+                        "Improved Initiative"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Mercy - Exhausted"
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Paladin",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 11,
+                    "class": "Paladin",
+                    "feats": [
+                        "Power Attack"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 12,
+                    "class": "Paladin",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Mercy - Poisoned"
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Paladin",
+                    "feats": [
+                        "Improved Critical - Longsword"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Paladin",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Paladin",
+                    "feats": [
+                        "Vital Strike"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Mercy - Dazed"
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Paladin",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Paladin",
+                    "feats": [
+                        "Improved Vital Strike"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Paladin",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Mercy - Blinded"
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Paladin",
+                    "feats": [
+                        "Greater Improved Vital Strike"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Paladin",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }
+            ],
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Last Stand" 
+                }, {
+                    "number": 2,
+                    "name": "Armor Focus (Mythic) - Heavy Armor"
+                }, {
+                    "number": 3,
+                    "name": "Unrelenting Blows"
+                }, {
+                    "number": 4,
+                    "name": "Improved Initiative (Mythic)"
+                }, {
+                    "number": 5,
+                    "name": "Abundant Smite"
+                }, {
+                    "number": 6,
+                    "name": "Power Attack (Mythic)"
+                }, {
+                    "number": 7,
+                    "name": "Leading Strike"
+                }, {
+                    "number": 8,
+                    "name": "Improved Critical (Mythic) - Longsword"
+                }, {
+                    "number": 9,
+                    "name": "Mythic Charge"
+                }, {
+                    "number": 10,
+                    "name": "Vital Strike (Mythic)"
                 }
             ]
         }, {
@@ -82,8 +329,233 @@
                         " Mobility"
                     ],
                     "asi": "",
+                    "other": []
+                }, {
+                    "number": 3,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Dodge"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
                     "other": [
-                        "Iceplant"
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Spirit Hunter",
+                    "feats": [],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Battle Master"
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Toughness"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Spirit Hunter",
+                    "feats": [],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Weapon Focus - Rapier"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 8,
+                    "class": "Spirit Hunter",
+                    "feats": [],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Aura of Purity",
+                        "Weapon Specialization - Rapier"
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Combat Casting"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Spirit Hunter",
+                    "feats": [],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Ameliorating"
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Piranha Strike"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 12,
+                    "class": "Spirit Hunter",
+                    "feats": [],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Battle Ward"
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Critical Focus"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Vital Strike"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Hampering Hex",
+                        "Greater Weapon Focus - Rapier"
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Improved Critical - Rapier"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Slumber"
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                        "Combat Reflexes"
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Spirit Hunter",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Trickery",
+                        " Mobility"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Draconic Resilience"
                     ]
                 }
             ]
