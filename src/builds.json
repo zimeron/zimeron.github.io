@@ -1260,6 +1260,333 @@
                     "name": "Mythic Combat Reflexes"
                 }
             ]
-        }
+        }, {
+            "name": "Ember",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Point-Blank Shot"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Slumber"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Stigmatized Witch",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Vulnerability Curse"
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Precise Shot"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Stigmatized Witch",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                        "Evil Eye"
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Spell Penetration"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Stigmatized Witch",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Cackle"
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Weapoon Focus - Ray"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 8,
+                    "class": "Stigmatized Witch",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                        "Protective Luck"
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Spell Focus - Evocation"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Stigmatized Witch",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Fortune"
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Greater Spell Penetration"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Stigmatized Witch",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                        "Major Healing"
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Spell Specialization - Scorching Ray"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Ameliorating"
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Metamagic - Empower Spell"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [ 
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                        "Major Ameliorating",
+                        " Spell Specialization - Hellfire Ray"
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Metamagic - Intensified Spell"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Spell Specialization - Hellfire Ray"   
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Dire Prophecy",
+                        " Spell Specialization - Hellfire Ray"
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                        "Metamagic - Bolster Spell"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Spell Specialization - Hellfire Ray"
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Stigmatized Witch",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                        "Life Giver",
+                        " Spell Specialization - Hellfire Ray"
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Ascendant Element - Fire"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Spell Penetration"
+                }, {
+                    "number": 3,
+                    "name": "Abundant Casting"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Point-Blank Shot"
+                }, {
+                    "number": 5,
+                    "name": "Improved Abundant Casting"
+                }, {
+                    "number": 6,
+                    "name": "School Master - Evocation"
+                }, {
+                    "number": 7,
+                    "name": "Greater Abundant Casting"
+                }, {
+                    "number": 8,
+                    "name": "Extra Mythic Ability - Favorite Metamagic - Empowered"
+                }, {
+                    "number": 9,
+                    "name": "Favorite Metamagic - Intensified"
+                }, {
+                    "number": 10,
+                    "name": "Sorcerous Reflex"
+                }
+            ]
+        } 
     ]
 }
