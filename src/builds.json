@@ -10,7 +10,7 @@
                         "Shield Focus"
                     ],
                     "skills": [
-                        "Lore (Religion)",
+                        "Mobility",
                         " Knowledge (World)",
                         " Persuasion"
                     ],
@@ -277,31 +277,31 @@
                     "name": "Last Stand" 
                 }, {
                     "number": 2,
-                    "name": "Armor Focus (Mythic) - Heavy Armor"
+                    "name": "Mythic Armor Focus (Heavy Armor) - Avoidance"
                 }, {
                     "number": 3,
                     "name": "Unrelenting Blows"
                 }, {
                     "number": 4,
-                    "name": "Improved Initiative (Mythic)"
+                    "name": "Mythic Improved Initiative"
                 }, {
                     "number": 5,
                     "name": "Abundant Smite"
                 }, {
                     "number": 6,
-                    "name": "Power Attack (Mythic)"
+                    "name": "Mythic Power Attack"
                 }, {
                     "number": 7,
                     "name": "Leading Strike"
                 }, {
                     "number": 8,
-                    "name": "Improved Critical (Mythic) - Longsword"
+                    "name": "Mythic Improved Critical - Longsword"
                 }, {
                     "number": 9,
                     "name": "Mythic Charge"
                 }, {
                     "number": 10,
-                    "name": "Vital Strike (Mythic)"
+                    "name": "Mythic Vital Strike"
                 }
             ]
         }, {
@@ -326,19 +326,21 @@
                     "feats": [],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
-                    "other": []
+                    "other": [
+                        "Evil Eye"
+                    ]
                 }, {
                     "number": 3,
                     "class": "Spirit Hunter",
                     "feats": [
-                        "Dodge"
+                        "Weapon Focus - Rapier"
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -349,21 +351,21 @@
                     "feats": [],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "Dexterity",
                     "other": [
-                        "Battle Master"
+                        "Chant"
                     ]
                 }, {
                     "number": 5,
                     "class": "Spirit Hunter",
                     "feats": [
-                        "Toughness"
+                        "Fencing Grace"
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -374,7 +376,7 @@
                     "feats": [],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -383,11 +385,11 @@
                     "number": 7,
                     "class": "Spirit Hunter",
                     "feats": [
-                        "Weapon Focus - Rapier"
+                        "Outflank"
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": []
@@ -397,22 +399,22 @@
                     "feats": [],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "Dexterity",
                     "other": [
-                        "Aura of Purity",
+                        "Battle Master",
                         "Weapon Specialization - Rapier"
                     ]
                 }, {
                     "number": 9,
                     "class": "Spirit Hunter",
                     "feats": [
-                        "Combat Casting"
+                        "Medium Armor Focus"
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -423,21 +425,21 @@
                     "feats": [],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
-                        "Ameliorating"
+                        "Iceplant"
                     ]
                 }, {
                     "number": 11,
                     "class": "Spirit Hunter",
                     "feats": [
-                        "Piranha Strike"
+                        "Shield Focus"
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": []
@@ -447,21 +449,21 @@
                     "feats": [],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "Dexterity",
                     "other": [
-                        "Battle Ward"
+                        "Hampering Hex"
                     ]
                 }, {
                     "number": 13,
                     "class": "Spirit Hunter",
                     "feats": [
-                        "Critical Focus"
+                        "Piranha Strike"
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -473,7 +475,7 @@
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -482,11 +484,11 @@
                     "number": 15,
                     "class": "Spirit Hunter",
                     "feats": [
-                        "Vital Strike"
+                        "Combat Reflexes"
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -498,12 +500,12 @@
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "Dexterity",
                     "other": [
-                        "Hampering Hex",
-                        "Greater Weapon Focus - Rapier"
+                        "Secret - Metamagic (Extend Spell)",
+                        " Greater Weapon Focus - Rapier"
                     ]
                 }, {
                     "number": 17,
@@ -513,7 +515,7 @@
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -525,21 +527,21 @@
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
-                        "Slumber"
+                        "Secret - Metamagic (Heighten Spell)"
                     ]
                 }, {
                     "number": 19,
                     "class": "Spirit Hunter",
                     "feats": [
-                        "Combat Reflexes"
+                        "Critical Focus"
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "",
                     "other": [
@@ -551,12 +553,361 @@
                     ],
                     "skills": [
                         "Trickery",
-                        " Mobility"
+                        " Lore (Nature)"
                     ],
                     "asi": "Dexterity",
                     "other": [
-                        "Draconic Resilience"
+                        "Aura of Purity"
                     ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Last Stand"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Weapon Focus (Rapier)"
+                }, {
+                    "number": 3,
+                    "name": "Abundant Casting"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Armor Focus (Medium Armor) - Endurance"
+                }, {
+                    "number": 5,
+                    "name": "Improved Abundant Casting"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Buckler - Flying Shield Style"
+                }, {
+                    "number": 7,
+                    "name": "Greater Abundant Casting"
+                }, {
+                    "number": 8,
+                    "name": "Mythic Piranha Strike"
+                }, {
+                    "number": 9,
+                    "name": "Favorite Metamagic - Extend"
+                }, {
+                    "number": 10,
+                    "name": "Mythic Improved Critical - Rapier"
+                }
+            ]
+        }, {
+            "name": "Lann",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Combat Reflexes"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Point-Blank Shot"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Zen Archer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Precise Shot",
+                        " Way of the Bow - Longbow"
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Deadly Aim"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Point-Blank Master - Longbow"
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Zen Archer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                        "Ki Power - Barkskin"
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Rapid Shot"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Zen Archer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Ki Power - Scorching Ray",
+                        " Manyshot"
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Clustered Shots"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 8,
+                    "class": "Zen Archer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                        "Ki Power - Restoration"
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Hammer the Gap"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Zen Archer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Dodge"
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Crane Style"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 12,
+                    "class": "Zen Archer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                        "Ki Power - Diamond Body"
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Improved Snap Shot"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Zen Archer",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Ki Power - Abundant Step",
+                        " Improved Critical (Longbow)"
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Greater Snap Shot"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Zen Archer",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                        "Ki Power - True Strike"
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Critical Focus"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Zen Archer",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Ki Power - Diamond Soul",
+                        " Improved Precise Shot"
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Zen Archer",
+                    "feats": [
+                        "Flaying Critical"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Zen Archer",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Perception"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                        "Ki Power - Cold Ice Strike"
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Ranging Shots"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Rapid Shot"
+                }, {
+                    "number": 3,
+                    "name": "Cleaving Shot"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Point-Blank Shot"
+                }, {
+                    "number": 5,
+                    "name": "Distracting Shots"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Deadly Aim"
+                }, {
+                    "number": 7,
+                    "name": "Abundant Ki"
+                }, {
+                    "number": 8,
+                    "name": "Mythic Improved Critical - Longbow"
+                }, {
+                    "number": 9,
+                    "name": "The Bigger They Are"
+                }, {
+                    "number": 10,
+                    "name": "Mythic Manyshot"
                 }
             ]
         }

@@ -60,8 +60,6 @@ function createMythics(level, name) {
 }
 
 function BuildTable(props) {
-  console.log(props.mythics);
-
     return(
       <div hidden={props.hidden}>
         <Card sx={{ marginBottom: 8, marginTop: 8}}>
