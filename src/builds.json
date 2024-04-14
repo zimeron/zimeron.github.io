@@ -280,7 +280,7 @@
                     "name": "Mythic Armor Focus (Heavy Armor) - Avoidance"
                 }, {
                     "number": 3,
-                    "name": "Unrelenting Blows"
+                    "name": "Unrelenting Assault"
                 }, {
                     "number": 4,
                     "name": "Mythic Improved Initiative"
@@ -908,6 +908,356 @@
                 }, {
                     "number": 10,
                     "name": "Mythic Manyshot"
+                }
+            ]
+        }, {
+            "name": "Woljif",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Two-Weapon Fighting"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Weapon Finesse"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Double Slice"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Finesse Training - Dagger"
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Weapon Focus - Dagger"
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Piranha Strike"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Outflank"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 8,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Weakening Wound"
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Improved Two-Weapon Fighting"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Combat Reflexes"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Finesse Training - Shortsword"
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Opportunist"
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Improved Critical - Dagger"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Hammer the Gap"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [ 
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Double Debilitation"
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Greater Two-Weapon Fighting"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [   
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                        "Critical Focus"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Finesse Training - Rapier"
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Eldritch Scoundrel",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Perception",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Flaying Critical"
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Abundant Casting"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Two-Weapon Fighting"
+                }, {
+                    "number": 3,
+                    "name": "Archmage Armor"
+                }, {
+                    "number": 4,
+                    "name": "Flawless Attacks"
+                }, {
+                    "number": 5,
+                    "name": "Improved Abundant Casting"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Piranha Strike"
+                }, {
+                    "number": 7,
+                    "name": "Unrelenting Assault"
+                }, {
+                    "number": 8,
+                    "name": "Mythic Improved Critical - Dagger"
+                }, {
+                    "number": 9,
+                    "name": "Greater Abundant Casting"
+                }, {
+                    "number": 10,
+                    "name": "Mythic Combat Reflexes"
                 }
             ]
         }

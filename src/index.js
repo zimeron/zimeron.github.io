@@ -39,7 +39,7 @@ class Nav extends React.Component {
                 <Button onClick={() => this.changeBuild(0)}>Seelah</Button>
                 <Button onClick={() => this.changeBuild(1)}>Camellia</Button>
                 <Button onClick={() => this.changeBuild(2)}>Lann</Button>
-                <Button onClick={() => this.changeBuild(3)}>Wenduag</Button>
+                <Button onClick={() => this.changeBuild(3)}>Woljif</Button>
             </ButtonGroup>
             <BuildTable rows={this.state.tableRows} mythics={this.state.mythicRows} hidden={this.state.isTableHidden}/>
           </div>    
