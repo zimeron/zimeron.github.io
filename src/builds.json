@@ -1587,6 +1587,325 @@
                     "name": "Sorcerous Reflex"
                 }
             ]
+        }, {
+            "name": "Nenio",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Spell Focus - Illusion"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
+                        " Lore (Religion)",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Specialist School - Illusion",
+                        " Opposition School - Abjuration",
+                        " Opposition School - Necromancy"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Scroll Savant",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Spell Penetration"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Scroll Savant",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Intelligence",
+                    "other": [
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Point-Blank Shot"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Scroll Savant",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Precise Shot"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": []
+                }, {
+                    "number": 8,
+                    "class": "Scroll Savant",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Intelligence",
+                    "other": [
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Greater Spell Focus - Illusion"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Scroll Savant",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Greater Spell Penetration"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Scroll Savant",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Intelligence",
+                    "other": [
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Spell Specialization - Phantasmal Killer"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Scroll Savant",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Metamagic - Selective Spell"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Metamagic - Heighten Spell"
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Scroll Savant",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Intelligence",
+                    "other": [
+                        "Major Ameliorating",
+                        " Spell Specialization - Hellfire Ray"
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Metamagic - Bolstered Spell"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [ 
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Scroll Savant",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Scroll Savant",
+                    "feats": [
+                        "Metamagic - Persistent Spell"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Scroll Savant",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                        "Metamagic - Quickened Spell"
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Archmage Armor"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Spell Penetration"
+                }, {
+                    "number": 3,
+                    "name": "Abundant Casting"
+                }, {
+                    "number": 4,
+                    "name": "Expanded Arsenal - Evocation"
+                }, {
+                    "number": 5,
+                    "name": "School Tolerance"
+                }, {
+                    "number": 6,
+                    "name": "Spell Focus - Illusion"
+                }, {
+                    "number": 7,
+                    "name": "Improved Abundant Casting"
+                }, {
+                    "number": 8,
+                    "name": "School Mastery - Illusion"
+                }, {
+                    "number": 9,
+                    "name": "Greater Abundant Casting"
+                }, {
+                    "number": 10,
+                    "name": "Elemental Barrage"
+                }
+            ]
         } 
     ]
 }
