@@ -2215,6 +2215,332 @@
                     "name": "Extra Feat - Metamagic - Bolster"
                 }
             ]
-        } 
+        }, {
+            "name": "Ulbrig",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Weapon Focus - Claw"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Power Attack"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Griffonheart Shifter",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Weapon Focus - Bite"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Griffonheart Shifter",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Weapon Specialization - Claw"
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Dodge"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Griffonheart Shifter",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Outflank"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 8,
+                    "class": "Griffonheart Shifter",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Improved Unarmed Strike"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Crane Style"
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Griffonheart Shifter",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Shifter's Multistrike"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Griffonheart Shifter",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Improved Critical - Claw"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Improved Initiative"
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Extended Aspects"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Greater Weapon Focus - Claw"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [ 
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                        "Greater Weapon Specialization - Claw"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Griffonheart Shifter",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Lore (Nature)",
+                        " Perception"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Master Shapeshifter"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Dodge"
+                }, {
+                    "number": 3,
+                    "name": "Unrelenting Assault"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Power Attack"
+                }, {
+                    "number": 5,
+                    "name": "Last Stand"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Improved Critical - Claw"
+                }, {
+                    "number": 7,
+                    "name": "Mythic Charge"
+                }, {
+                    "number": 8,
+                    "name": "Mythic Weapon Specialization - Claw"
+                }, {
+                    "number": 9,
+                    "name": "Ever Ready"
+                }, {
+                    "number": 10,
+                    "name": "Mythic Weapon Focus - Claw"
+                }
+            ]
+        }
     ]
 }
