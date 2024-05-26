@@ -1811,8 +1811,6 @@
                     ],
                     "asi": "Intelligence",
                     "other": [
-                        "Major Ameliorating",
-                        " Spell Specialization - Hellfire Ray"
                     ]
                 }, {
                     "number": 17,
@@ -1867,7 +1865,7 @@
                         " Persuasion",
                         " Use Magic Device"
                     ],
-                    "asi": "Charisma",
+                    "asi": "Intelligence",
                     "other": [
                         "Metamagic - Quickened Spell"
                     ]
@@ -1904,6 +1902,317 @@
                 }, {
                     "number": 10,
                     "name": "Elemental Barrage"
+                }
+            ]
+        }, {
+            "name": "Daeran",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Oracle",
+                    "feats": [
+                        "Selective Channel"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Channel",
+                        " Life Mystery",
+                        " Powerless Prophecy"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Oracle",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Oracle",
+                    "feats": [
+                        "Extra Channel"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Safe Curing"
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Oracle",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Oracle",
+                    "feats": [
+                        "Spell Penetration"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Oracle",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Oracle",
+                    "feats": [
+                        "Spell Focus - Evocation"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Enhanced Cures"
+                    ]
+                }, {
+                    "number": 8,
+                    "class": "Oracle",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Oracle",
+                    "feats": [
+                        "Elemental Focus - Electricity"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Oracle",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Oracle",
+                    "feats": [
+                        "Greater Spell Penetration"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Lightning Breath"
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Oracle",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Oracle",
+                    "feats": [
+                        "Greater Spell Focus - Evocation"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Oracle",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Oracle",
+                    "feats": [
+                        "Greater Elemental Focus - Electricity"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Thunderburst"
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Oracle",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion",
+                        " Use Magic Device"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Oracle",
+                    "feats": [
+                        "Metamagic - Elemental Spell - Electricity"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [ 
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Oracle",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Oracle",
+                    "feats": [
+                        "Varisian Tattoo - Evocation"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Vortex Spells"
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Oracle",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Knowledge (World)",
+                        " Persuasion"
+                    ],
+                    "asi": "Constitution",
+                    "other": [
+                        "Final Revelation - Wind"
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Second Mystery - Wind"
+                }, {
+                    "number": 2,
+                    "name": "Extra Mythic Ability - Abundant Casting"
+                }, {
+                    "number": 3,
+                    "name": "Ascendant Element - Electricity"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Spell Penetration"
+                }, {
+                    "number": 5,
+                    "name": "Improved Abundant Casting"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Spell Focus - Evocation"
+                }, {
+                    "number": 7,
+                    "name": "Greater Abundant Casting"
+                }, {
+                    "number": 8,
+                    "name": "School Mastery - Evocation"
+                }, {
+                    "number": 9,
+                    "name": "Favorite Metamagic - Elemental - Electricity"
+                }, {
+                    "number": 10,
+                    "name": "Extra Feat - Metamagic - Bolster"
                 }
             ]
         } 
