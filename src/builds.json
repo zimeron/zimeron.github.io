@@ -1615,7 +1615,8 @@
                     "feats": [],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "",
@@ -1642,7 +1643,8 @@
                     "feats": [],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "Intelligence",
@@ -1669,7 +1671,8 @@
                     "feats": [],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "",
@@ -1695,7 +1698,8 @@
                     "feats": [],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "Intelligence",
@@ -1722,7 +1726,8 @@
                     "feats": [],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "",
@@ -1749,7 +1754,8 @@
                     "feats": [],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "Intelligence",
@@ -1777,7 +1783,8 @@
                     ],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "",
@@ -1806,7 +1813,8 @@
                     ],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "Intelligence",
@@ -1834,7 +1842,8 @@
                     ],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "",
@@ -1862,7 +1871,8 @@
                     ],
                     "skills": [
                         "Knowledge (Arcana)",
-                        " Persuasion",
+                        " Knowledge (World)",
+                        " Lore (Nature)",
                         " Use Magic Device"
                     ],
                     "asi": "Intelligence",
@@ -2539,6 +2549,312 @@
                 }, {
                     "number": 10,
                     "name": "Mythic Weapon Focus - Claw"
+                }
+            ]
+        }, {
+            "name": "Sosiel",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Cleric",
+                    "feats": [
+                        "Extra Channel"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Good Domain",
+                        " Luck Domain",
+                        " Selective Channel"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Cleric",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Cleric",
+                    "feats": [
+                        "Toughness"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Cleric",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Cleric",
+                    "feats": [
+                        "Armor Profiency - Heavy Armor"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Cleric",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Cleric",
+                    "feats": [
+                        "Spell Focus - Conjuration"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 8,
+                    "class": "Cleric",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Cleric",
+                    "feats": [
+                        "Spell Penetration"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Cleric",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Cleric",
+                    "feats": [
+                        "Augment Summoning"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Cleric",
+                    "feats": [],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Cleric",
+                    "feats": [
+                        "Greater Spell Focus - Conjuration"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Cleric",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Cleric",
+                    "feats": [
+                        "Greater Spell Peneration"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Cleric",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Cleric",
+                    "feats": [
+                        "Superior Summoning"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [ 
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Cleric",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Cleric",
+                    "feats": [
+                        "Varisian Tattoo - Conjuration"
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Cleric",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Lore (Religion)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Proxy - Charm Domain"
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Impossible Domain - Community Domain"
+                }, {
+                    "number": 2,
+                    "name": "Extra Mythic Ability - Ascendant Summons"
+                }, {
+                    "number": 3,
+                    "name": "Domain Zealot"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Exapnded Arsenal - Enchantment"
+                }, {
+                    "number": 5,
+                    "name": "Abundant Casting"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Spell Penetration"
+                }, {
+                    "number": 7,
+                    "name": "Improved Abundant Casting"
+                }, {
+                    "number": 8,
+                    "name": "Mythic Spell Focus - Conjuration"
+                }, {
+                    "number": 9,
+                    "name": "Greater Abundant Casting"
+                }, {
+                    "number": 10,
+                    "name": "Mythic School Mastery - Conjuration"
                 }
             ]
         }
