@@ -3089,7 +3089,7 @@
                     ],
                     "asi": "",
                     "other": [
-                        " Greater Weapon Focus - Gnoem Hooked Hammer" 
+                        " Greater Weapon Focus - Gnome Hooked Hammer" 
                     ]
                 }, {
                     "number": 18,
@@ -3147,25 +3147,25 @@
                     "name": "Ever Ready"
                 }, {
                     "number": 4,
-                    "name": "Mythic Armor Focus (Heavy Armor) - Assault or Mythic Armor Focus (Heavy Armor) - Endurance"
+                    "name": "Mythic Armor Focus (Heavy Armor) - Endurance"
                 }, {
                     "number": 5,
                     "name": "Abundant Smite Chaos"
                 }, {
                     "number": 6,
-                    "name": "Mythic Improved Critical - Gnome Hooked Hammer"
+                    "name": "Mythic Armor Focus (Heavy Armor) - Assault"
                 }, {
                     "number": 7,
                     "name": "Domain Zealot"
                 }, {
                     "number": 8,
-                    "name": "Mythic Weapon Specialization - Gnome Hooked Hammer"
+                    "name": "Mythic Improved Critical - Gnome Hooked Hammer"
                 }, {
                     "number": 9,
                     "name": "Always a Chance"
                 }, {
                     "number": 10,
-                    "name": "Mythic Piranha Strike"
+                    "name": "Mythic Weapon Specialization - Gnome Hooked Hammer"
                 }
             ]
         }
