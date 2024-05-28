@@ -2857,6 +2857,316 @@
                     "name": "Mythic School Mastery - Conjuration"
                 }
             ]
+        }, {
+            "name": "Regill",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Armiger",
+                    "feats": [
+                        "Two-Weapon Fighting"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Order of the Godclaw"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Armiger",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Armiger",
+                    "feats": [
+                        "Weapon Finesse"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Armiger",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                        "Weapon Specialization - Gnome Hooked Hammer"
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Armiger",
+                    "feats": [
+                        "Fighter's Finesse"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Weapon Training - Double Weapons"
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Hellknight",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Armiger",
+                    "feats": [
+                        "Improved Two-Weapon Fighting"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Outflank"
+                    ]
+                }, {
+                    "number": 8,
+                    "class": "Armiger",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Armor Training"
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Armiger",
+                    "feats": [
+                        "Improved Critical - Gnome Hooked Hammer"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Armor Focus - Heavy Armor"
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Armiger",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Trained Initiative",
+                        " Weapon Training - Double Weapons"
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Hellknight",
+                    "feats": [
+                        "Greater Two-Weapon Fighting"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Hellknight",
+                    "feats": [],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Force of Will - Compulsion",
+                        " Fearsomeness"
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Hellknight",
+                    "feats": [
+                        "Dazzling Display"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Hellknight",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Hellknight",
+                    "feats": [
+                        "Shatter Defenses"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Force of Will - Charm",
+                        " Force of Will - Compulsion",
+                        " War Domain"
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Hellknight",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Hellknight",
+                    "feats": [
+                        "Piranha Strike"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        " Greater Weapon Focus - Gnoem Hooked Hammer" 
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Hellknight",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Force of Will - Fear",
+                        " Force of Will - Compulsion",
+                        " Force of Will - Charm",
+                        " Onslaught"
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Hellknight",
+                    "feats": [
+                        "Combat Reflexes"
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Armiger",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Knowledge (Arcana)",
+                        " Lore (Religion)",
+                        " Persuasion"
+                    ],
+                    "asi": "Wisdom",
+                    "other": [
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Last Stand"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Two-Weapon Fighting"
+                }, {
+                    "number": 3,
+                    "name": "Ever Ready"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Armor Focus (Heavy Armor) - Assault or Mythic Armor Focus (Heavy Armor) - Endurance"
+                }, {
+                    "number": 5,
+                    "name": "Abundant Smite Chaos"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Improved Critical - Gnome Hooked Hammer"
+                }, {
+                    "number": 7,
+                    "name": "Domain Zealot"
+                }, {
+                    "number": 8,
+                    "name": "Mythic Weapon Specialization - Gnome Hooked Hammer"
+                }, {
+                    "number": 9,
+                    "name": "Always a Chance"
+                }, {
+                    "number": 10,
+                    "name": "Mythic Piranha Strike"
+                }
+            ]
         }
     ]
 }
