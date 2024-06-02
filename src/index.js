@@ -35,7 +35,7 @@ class Nav extends React.Component {
     render() {
         return(
           <div>
-            <ButtonGroup>
+            <ButtonGroup color="secondary" variant="contained">
                 <Button onClick={() => this.changeBuild(0)}>Seelah</Button>
                 <Button onClick={() => this.changeBuild(1)}>Camellia</Button>
                 <Button onClick={() => this.changeBuild(2)}>Lann</Button>
@@ -46,6 +46,8 @@ class Nav extends React.Component {
                 <Button onClick={() => this.changeBuild(7)}>Ulbrig</Button>
                 <Button onClick={() => this.changeBuild(8)}>Sosiel</Button>
                 <Button onClick={() => this.changeBuild(9)}>Regill</Button>
+                <Button onClick={() => this.changeBuild(10)}>Arushalae</Button>
+                <Button onClick={() => this.changeBuild(11)}>Greybor</Button>
             </ButtonGroup>
             <BuildTable rows={this.state.tableRows} mythics={this.state.mythicRows} hidden={this.state.isTableHidden}/>
           </div>    

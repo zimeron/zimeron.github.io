@@ -3168,6 +3168,705 @@
                     "name": "Mythic Weapon Specialization - Gnome Hooked Hammer"
                 }
             ]
+        }, {
+            "name": "Arushalae",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Point-Blank Shot"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Favored Enemy - Humans"
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Espionage Expert",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Precise Shot"
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Rapid Shot"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Espionage Expert",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Deadly Aim"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Favored Enemy - Demons of Magic",
+                        " Favored Enemy - Demons of Magic"
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Espionage Expert",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Manyshot"
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Clustered Shots"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 8,
+                    "class": "Espionage Expert",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Improved Critical - Longbow"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Espionage Expert",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Point-Blank Master - Longbow",
+                        " Favored Enemy - Undead",
+                        " Favored Enemy - Demons of Magic"
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Weapon Focus - Longbow"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Espionage Expert",
+                    "feats": [],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Critical Focus"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Espionage Expert",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Improved Precise Shot"
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Hammer the Gap"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Favored Enemy - Monstrous Humanoids",
+                        " Favored Enemy - Demons of Magic"
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Espionage Expert",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Dexterity",
+                    "other": [
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Staggering Critical"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Espionage Expert",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Dodge"
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Espionage Expert",
+                    "feats": [
+                        "Focused Shot"
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Espionage Expert",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Mobility",
+                        " Trickery",
+                        " Stealth",
+                        " Knowledge (Arcana)",
+                        " Perception",
+                        " Persuasion"
+                    ],
+                    "asi": "Charisma",
+                    "other": [
+                        "Favored Enemy - Constructs",
+                        " Favored Enemy - Demons of Magic"
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Ranging Shots"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Rapid Shot"
+                }, {
+                    "number": 3,
+                    "name": "Mythic Bond"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Point-Blank Shot"
+                }, {
+                    "number": 5,
+                    "name": "Cleaving Shot"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Deadly Aim"
+                }, {
+                    "number": 7,
+                    "name": "Expose Vulnerability"
+                }, {
+                    "number": 8,
+                    "name": "Mythic Improved Critical - Longbow"
+                }, {
+                    "number": 9,
+                    "name": "The Bigger They Are"
+                }, {
+                    "number": 10,
+                    "name": "Mythic Manyshot"
+                }
+            ]
+        }, {
+            "name": "Greybor",
+            "levels": [
+                {
+                    "number": 1,
+                    "class": "Slayer",
+                    "feats": [
+                        "Two-Weapon Fighting"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 2,
+                    "class": "Slayer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Double Slice"
+                    ]
+                }, {
+                    "number": 3,
+                    "class": "Slayer",
+                    "feats": [
+                        "Weapon Focus - Dwarven Axe"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 4,
+                    "class": "Slayer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Weakening Wound"
+                    ]
+                }, {
+                    "number": 5,
+                    "class": "Slayer",
+                    "feats": [
+                        "Accomplished Sneak Attacker"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 6,
+                    "class": "Slayer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Improved Two-Weapon Fighting"
+                    ]
+                }, {
+                    "number": 7,
+                    "class": "Slayer",
+                    "feats": [
+                        "Hamemr the Gap"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 8,
+                    "class": "Slayer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Slow Reactions"
+                    ]
+                }, {
+                    "number": 9,
+                    "class": "Slayer",
+                    "feats": [
+                        "Power Attack"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 10,
+                    "class": "Slayer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Greater Two-Weapon Fighting"
+                    ]
+                }, {
+                    "number": 11,
+                    "class": "Slayer",
+                    "feats": [
+                        "Outflank"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 12,
+                    "class": "Slayer",
+                    "feats": [],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Shield Bash"
+                    ]
+                }, {
+                    "number": 13,
+                    "class": "Slayer",
+                    "feats": [
+                        "Shield Master"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 14,
+                    "class": "Slayer",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Favored Terrain - Abyss"
+                    ]
+                }, {
+                    "number": 15,
+                    "class": "Slayer",
+                    "feats": [
+                        "Improved Critical - Dwarven Axe"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 16,
+                    "class": "Slayer",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "Strength",
+                    "other": [
+                        "Opportunist"
+                    ]
+                }, {
+                    "number": 17,
+                    "class": "Slayer",
+                    "feats": [
+                        "Medium Armor Focus"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 18,
+                    "class": "Slayer",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "",
+                    "other": [
+                        "Uncanny Dodge"
+                    ]
+                }, {
+                    "number": 19,
+                    "class": "Slayer",
+                    "feats": [
+                        "Critical Focus"
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth",
+                        " Perception"
+                    ],
+                    "asi": "",
+                    "other": [
+                    ]
+                }, {
+                    "number": 20,
+                    "class": "Slayer",
+                    "feats": [
+                    ],
+                    "skills": [
+                        "Athletics",
+                        " Mobility",
+                        " Stealth"
+                    ],
+                    "asi": "Intelligence",
+                    "other": [
+                        "Emboldening Strike",
+                        " Against the Odds"
+                    ]
+                }
+            ], 
+            "mythics": [
+                {
+                    "number": 1,
+                    "name": "Last Stand"
+                }, {
+                    "number": 2,
+                    "name": "Mythic Two-Weapon Fighting"
+                }, {
+                    "number": 3,
+                    "name": "Defensive Study"
+                }, {
+                    "number": 4,
+                    "name": "Mythic Sneak Attacker"
+                }, {
+                    "number": 5,
+                    "name": "Ever Ready"
+                }, {
+                    "number": 6,
+                    "name": "Mythic Improved Critical - Dwarven Axe"
+                }, {
+                    "number": 7,
+                    "name": "Precision Critical"
+                }, {
+                    "number": 8,
+                    "name": "Mythic Armor Focus (Medium Armor) - Endurance"
+                }, {
+                    "number": 9,
+                    "name": "Unrelenting Assault"
+                }, {
+                    "number": 10,
+                    "name": "Mythic Power Attack"
+                }
+            ]
         }
     ]
 }
