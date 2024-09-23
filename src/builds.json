@@ -16,7 +16,7 @@
                     ],
                     "asi": "",
                     "other": [
-                        "Point-Blank Shot"
+                        "Dodge"
                     ]
                 }, {
                     "number": 2,
@@ -59,7 +59,7 @@
                     "number": 5,
                     "class": "Paladin",
                     "feats": [
-                        "Weapon Focus - Longsword"
+                        "Power Attack"
                     ],
                     "skills": [
                         "Lore (Religion)",
@@ -137,7 +137,7 @@
                     "number": 11,
                     "class": "Paladin",
                     "feats": [
-                        "Power Attack"
+                        "Vital Strike"
                     ],
                     "skills": [
                         "Lore (Religion)",
@@ -163,7 +163,7 @@
                     "number": 13,
                     "class": "Paladin",
                     "feats": [
-                        "Improved Critical - Longsword"
+                        "Improved Vital Strike"
                     ],
                     "skills": [
                         "Lore (Religion)",
@@ -218,7 +218,7 @@
                     "number": 17,
                     "class": "Paladin",
                     "feats": [
-                        "Improved Vital Strike"
+                        "Greater Vital Strike"
                     ],
                     "skills": [
                         "Lore (Religion)",
@@ -246,7 +246,7 @@
                     "number": 19,
                     "class": "Paladin",
                     "feats": [
-                        "Greater Improved Vital Strike"
+                        "Improved Critical - Longsword"
                     ],
                     "skills": [
                         "Lore (Religion)",
@@ -289,19 +289,19 @@
                     "name": "Abundant Smite"
                 }, {
                     "number": 6,
-                    "name": "Mythic Power Attack"
+                    "name": "Mythic Vital Strike"
                 }, {
                     "number": 7,
                     "name": "Leading Strike"
                 }, {
                     "number": 8,
-                    "name": "Mythic Improved Critical - Longsword"
+                    "name": "Mythic Power Attack"
                 }, {
                     "number": 9,
                     "name": "Mythic Charge"
                 }, {
                     "number": 10,
-                    "name": "Mythic Vital Strike"
+                    "name": "Mythic Improved Critical - Longsword"
                 }
             ]
         }, {
